@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TodoApplication</string>
+    <string-array name="input_field">
+        <item>calender</item>
+        <item>calender</item>
+        <item>calender</item>
+        <item>calender</item>
+        <item>calender</item>
+        <item>calender</item>
+
+    </string-array>
+    <string-array name="date_time">
+        <item> 10/07/2020</item>
+        <item> 10/07/2020</item>
+        <item> 10/07/2020</item>
+        <item> 10/07/2020</item>
+        <item> 10/07/2020</item>
+        <item> 10/07/2020</item>
+    </string-array>
+</resources>
